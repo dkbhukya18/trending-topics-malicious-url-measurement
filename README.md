@@ -3,8 +3,6 @@
 Course project for CIS 540, University of Michigan-Dearborn, Fall 2022.
 Team: Ashish Vardhan Avuluri, Dileep Kumar Bhukya, Prakruthi Hosakere Srinivas, Sai Yeswanth Maturi, Vinutha Gowdru Parameshwarappa.
 
-[ERRATA.md](ERRATA.md) notes where these results differ from the original course report.
-
 ## Question
 
 Attackers use SEO poisoning to piggyback on trending topics: they push malicious pages into search results for whatever people are currently searching. How often do top search results for trending topics point to URLs that security vendors flag?
@@ -19,7 +17,7 @@ Attackers use SEO poisoning to piggyback on trending topics: they push malicious
 ## Results
 
 - Flagged URLs were rare: on average 1–2 per day as malicious and a similar number as suspicious, out of about 300 scanned. **That is roughly 0.3–0.7% per day.** The peak day had 9 malicious URLs (about 3%).
-- The original data doesn't record how many engines flagged each URL, so single-engine flags (often false positives) can't be separated from multi-engine consensus.
+- The collected data doesn't record how many engines flagged each URL, so single-engine flags (often false positives) can't be separated from multi-engine consensus.
 
 ## Limitations
 
