@@ -3,7 +3,7 @@
 Course project for CIS 540, University of Michigan-Dearborn, Fall 2022.
 Team: Ashish Vardhan Avuluri, Dileep Kumar Bhukya, Prakruthi Hosakere Srinivas, Sai Yeswanth Maturi, Vinutha Gowdru Parameshwarappa.
 
-This is a **corrected** write-up of the original report. [ERRATA.md](ERRATA.md) lists every change.
+[ERRATA.md](ERRATA.md) notes where these results differ from the original course report.
 
 ## Question
 
